@@ -8,7 +8,7 @@ import resume from '../Documents/Jaimish-Patel-Resume-Software-Developer.pdf';
 
 function About() {
     return (
-        <div className="container section">
+        <div id="about" className="container section">
             <div className="row">
                 <div className="col-md-1"></div>
                 <div className="col-md-3">

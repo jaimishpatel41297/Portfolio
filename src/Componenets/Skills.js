@@ -15,7 +15,7 @@ import Gitlogo from '../Images/Git.png';
 
 function Skills() {
     return (
-        <div className="container section font skillayout">
+        <div className="container section font skillayout" id="skills">
             <Card className="skillcard">
                 <Card.Body>
                     <Card.Title className="fw-bold fs-3">TOP SKILLS</Card.Title>

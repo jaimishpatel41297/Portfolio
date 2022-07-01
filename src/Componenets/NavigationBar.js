@@ -39,9 +39,9 @@ function NavigationBar() {
                 </OverlayTrigger>
                 <Nav>
                     <Nav.Link href="#home">HOME</Nav.Link>
-                    <Nav.Link href="#features">ABOUT</Nav.Link>
-                    <Nav.Link href="#pricing">RESUME</Nav.Link>
-                    <Nav.Link href="#education">EDUCATION</Nav.Link>
+                    <Nav.Link href="#about">ABOUT</Nav.Link>
+                    <Nav.Link href="#resume">RESUME</Nav.Link>
+                    <Nav.Link href="#skills">SKILLS</Nav.Link>
                     <Nav.Link href="#project">PROJECTS</Nav.Link>
                 </Nav>
                 <Nav className="justify-content-end" activeKey="/home">

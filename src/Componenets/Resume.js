@@ -6,7 +6,7 @@ import Image from 'react-bootstrap/Image';
 function Resmue() {
 
     return (
-        <div className="text-light blacksection font">
+        <div id="resume" className="text-light blacksection font">
             <div className="container">
                 <div className="row">
                     <div className="col-md-4">

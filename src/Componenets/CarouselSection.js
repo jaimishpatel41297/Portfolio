@@ -14,7 +14,7 @@ function CarouselSection() {
         delay: 75,
     });
     return (
-        <Carousel fade >
+        <Carousel fade id="home" >
             <Carousel.Item interval={1000}>
                 <img
                     className="d-block w-100"

@@ -5,7 +5,7 @@ import './ComponentStyles.css';
 function Project() {
 
     return (
-        <div className="text-light font project">
+        <div id="project" className="text-light font project">
             <div className="project-container">
                 <h2>Projects</h2>
                 <div className="tabs w-tabs">
