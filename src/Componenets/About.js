@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import { Redirect } from "react-router";
 import avtar from '../Images/About.jpg';
 import './ComponentStyles.css';
 import Image from 'react-bootstrap/Image';
