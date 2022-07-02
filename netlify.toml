@@ -1,8 +1,8 @@
 [build]
-   command: "npm run build"
-   commandOrigin: "ui"
-   publish: "/opt/build/repo/build"
-   publishOrigin: "ui"
+   command: "npm run build",
+   commandOrigin: "ui",
+   publish: "/opt/build/repo/build",
+   publishOrigin: "ui",
 [[redirects]]
   from = "/*"
   to = "/index.html"
