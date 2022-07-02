@@ -1,6 +1,5 @@
 import React from "react";
 import Carousel from 'react-bootstrap/Carousel';
-import Button from 'react-bootstrap/Button';
 import img1 from '../Images/img1.jpeg';
 import img9 from '../Images/Img9.jpg';
 import './ComponentStyles.css';
@@ -9,10 +8,10 @@ import Typewriter from 'typewriter-effect';
 
 function CarouselSection() {
 
-    var typewriter = new Typewriter({
-        loop: true,
-        delay: 75,
-    });
+    // var typewriter = new Typewriter({
+    //     loop: true,
+    //     delay: 75,
+    // });
     return (
         <Carousel fade id="home" >
             <Carousel.Item interval={1000}>
