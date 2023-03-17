@@ -3,7 +3,7 @@ import avtar from '../Images/About.jpg';
 import './ComponentStyles.css';
 import Image from 'react-bootstrap/Image';
 import Button from 'react-bootstrap/Button';
-import resume from '../Documents/Jaimish-Patel-Resume-Software-Developer.pdf';
+import resume from '../Documents/Jaimish-Patel-Resume-Full-Stack-Developer.pdf';
 
 function About() {
     return (
